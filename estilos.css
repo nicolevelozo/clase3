@@ -21,7 +21,7 @@ main{
 
 header{
     text-align: center;
-    color: rgb(88,195,227);
+    color: rgb(127, 88, 227);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
     background-image: url('./img/fondo.avif');
@@ -47,7 +47,7 @@ header h2{
 }
 
 .container{
-    background-color: blue;
+    background-color: rgb(255, 0, 225);
     width: 80%;
     margin: 0 auto;
     position: relative;
